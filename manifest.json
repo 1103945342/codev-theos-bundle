@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "version": "1.0.1",
+  "architecture": "arm64-v8a",
+  "theosRevision": "16362d3aa83a0acd56df4493d575d34306d42478",
+  "sourceModel": "fixed-recursive-git-checkout",
+  "gitMetadataIncluded": true,
+  "termuxPatchSha256": "0d49442fe3690b8d6ccb2aa48a30fea8a7f895e599712a59beb4908a04af055d",
+  "sdk": "iPhoneOS16.5.sdk",
+  "components": [
+    {
+      "name": "theos-core-1.0.1-arm64.tar.gz",
+      "size": 18514346,
+      "sha256": "1759826fe918ad263a6a3ba85066621ecb5bf0d0d064537068c09b6ba95b6151",
+      "url": "https://github.com/1103945342/codev-theos-bundle/releases/download/v1.0.1/theos-core-1.0.1-arm64.tar.gz"
+    },
+    {
+      "name": "iphoneos16.5-sdk-1.0.1.tar.gz",
+      "size": 29697172,
+      "sha256": "82f8a315125be3ef5ccbdbd964cbdead8ef186177665c4cf7438954f0278b142",
+      "url": "https://github.com/1103945342/codev-theos-bundle/releases/download/v1.0.1/iphoneos16.5-sdk-1.0.1.tar.gz"
+    },
+    {
+      "name": "ldid-1.0.1-arm64.tar.gz",
+      "size": 92554,
+      "sha256": "9670e074df0951497fd71746948195c91302f733f9354619fa02061b6f8c727d",
+      "url": "https://github.com/1103945342/codev-theos-bundle/releases/download/v1.0.1/ldid-1.0.1-arm64.tar.gz"
+    }
+  ]
+}
