@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 2,
+  "version": "1.0.0",
+  "architecture": "arm64-v8a",
+  "sdk": "iPhoneOS16.5.sdk",
+  "sdkArchive": {
+    "name": "iphoneos16.5-sdk-1.0.0.tar.gz",
+    "size": 29781806,
+    "sha256": "dac1a232f2ad40e205028ef12c28ffb9531bd6a79674f7ca616fc76fde075e22"
+  },
+  "components": [
+    {
+      "name": "theos-core-1.0.0-arm64.tar.gz",
+      "size": 1556381,
+      "sha256": "747709e7420a5d87cac47a641e98114c64f9bc505acfb17bd6039cf365a7ead2"
+    },
+    {
+      "name": "iphoneos16.5-sdk-1.0.0.tar.gz.part-00",
+      "size": 4194304,
+      "sha256": "d65d73c0b803b58a1c4795e80aa537568455b39a50fba004e45a77ffbe4de67f"
+    },
+    {
+      "name": "iphoneos16.5-sdk-1.0.0.tar.gz.part-01",
+      "size": 4194304,
+      "sha256": "03fab091637fffac4780d7bdbb280a3d884029a74c0a76fdb089f63340339111"
+    },
+    {
+      "name": "iphoneos16.5-sdk-1.0.0.tar.gz.part-02",
+      "size": 4194304,
+      "sha256": "606cb6ab77d95c62082c68203ce1dd1d7ca94be9cabacc3889bf075d959a3c93"
+    },
+    {
+      "name": "iphoneos16.5-sdk-1.0.0.tar.gz.part-03",
+      "size": 4194304,
+      "sha256": "d6353c9ce9b35cda65699835b9cd6121bae21f4728b2cd1a9e4dd6672e0d6a06"
+    },
+    {
+      "name": "iphoneos16.5-sdk-1.0.0.tar.gz.part-04",
+      "size": 4194304,
+      "sha256": "609cd392ec21d84371967dd3d1047c6f88ff9562f26b06bbc55c6761d1e0a40f"
+    },
+    {
+      "name": "iphoneos16.5-sdk-1.0.0.tar.gz.part-05",
+      "size": 4194304,
+      "sha256": "2c1e3b917fe288c3bbcf28310c970a17b959da88f6408c4e8f9a37d9e06f82d8"
+    },
+    {
+      "name": "iphoneos16.5-sdk-1.0.0.tar.gz.part-06",
+      "size": 4194304,
+      "sha256": "b313260271e3f6bb0f686b8665ee256f1f933f759a630d6d4b38f84c1ab8959d"
+    },
+    {
+      "name": "iphoneos16.5-sdk-1.0.0.tar.gz.part-07",
+      "size": 421678,
+      "sha256": "005bd49d0860786ccadb88ea54b0094e0256aacff6137cd2ab121d9cee2e2ea5"
+    },
+    {
+      "name": "ldid-1.0.0-arm64.tar.gz",
+      "size": 92572,
+      "sha256": "75cc97226920748b6e18966e6f5d8ae4d22f02dbb5582a4f856a81f75a644c05"
+    }
+  ]
+}
