@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "archive": "android-sdk-base-1.0.0.tar.gz",
+  "size": 74144745,
+  "sha256": "c145798cfd5e190bb87ea948c84dcd520e96752d76bb97b52d873a13216e5444",
+  "parts": 18,
+  "platform": "36",
+  "buildTools": "35.0.1",
+  "architecture": "arm64-v8a"
+}
