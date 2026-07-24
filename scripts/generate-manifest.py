@@ -29,10 +29,15 @@ for name in names:
     })
 
 manifest = {
-    "schemaVersion": 1,
+    "schemaVersion": 2,
     "version": version,
     "architecture": "arm64-v8a",
     "theosRevision": "16362d3aa83a0acd56df4493d575d34306d42478",
+    "sourceModel": "fixed-recursive-git-checkout",
+    "gitMetadataIncluded": True,
+    "termuxPatchSha256": hashlib.sha256(
+        (root / "scripts" / "apply-termux-patches.sh").read_bytes()
+    ).hexdigest(),
     "sdk": "iPhoneOS16.5.sdk",
     "components": components,
 }
